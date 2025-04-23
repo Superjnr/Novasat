@@ -308,6 +308,9 @@
   .ft-img img {
     height: 3.5rem;
   }
+  .logo {
+    height: 3rem;
+  }
 }
 
 /* *********************************** */
@@ -321,6 +324,7 @@
   .what {
     padding: 1rem;
     top: 2rem;
+    font-size: 1rem;
   }
   .btn:link,
   .btn:visited {
@@ -350,6 +354,11 @@
   }
   .section-FAQ img {
     height: 28rem;
+  }
+  .testi-text {
+    height: 50%;
+    padding: 3rem;
+    margin: 1rem 0 5rem 0;
   }
 }
 /* *********************************** */
